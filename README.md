@@ -1,18 +1,38 @@
+
 **Event Website**
-A simple event listing website created using HTML and CSS. This website provides information about upcoming events, including details like free entry, food availability, and contact information.
+This project is a simple event listing website designed to provide users with information about upcoming events, including details such as entry rules, available amenities, and contact information.
 
 **Features**
-   -Displays upcoming events with details
+     - Upcoming Events: Displays important event details to keep users updated.
+     - Photo Gallery: Showcases event-related images to enhance engagement.
+     - Fashion Store Event: Special feature for fashion-related events.
+     - Contact Section: Provides event organizers' contact information.
 
-   -Provides a photo gallery section
+**Event Details**
+*Upcoming Events*
+Stay informed about upcoming events.
 
-   -Includes a fashion store event listing
+Important event details are highlighted.
 
-   -Contact section with email and phone number
+*Photo Gallery*
+Free Entry | Free Food | Pets Not Allowed
 
-**Live Preview**
-You can view the website at: https://727623bcs099.neocities.org/event/event
+Includes images related to events.
+
+*Fashion Store Event*
+Special feature for fashion enthusiasts.
+
+Free Entry | Free Food | Pets Not Allowed
 
 **Technologies Used**
-     * HTML
-     * CSS
+HTML: Structure of the webpage.
+
+CSS: Styling and layout.
+
+Hosting: Neocities platform.
+
+**Live Preview**
+You can visit the website at: https://727623bcs099.neocities.org/event/event
+
+**Conclusion**
+This event website provides an efficient way to share event information with visitors. With a simple and structured layout, users can easily access important event updates, browse images, and contact event organizers. Future improvements may include adding interactivity and a booking feature for better engagement.
