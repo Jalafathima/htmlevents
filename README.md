@@ -4,8 +4,7 @@
 This project is a simple event listing website designed to provide users with information about upcoming events, including details such as entry rules, available amenities, and contact information.
 
 **Features**
-
-     - Upcoming Events: Displays important event details to keep users updated.
+      -       Upcoming Events: Displays important event details to keep users updated.
      - Photo Gallery: Showcases event-related images to enhance engagement.
      - Fashion Store Event: Special feature for fashion-related events.
      - Contact Section: Provides event organizers' contact information.
